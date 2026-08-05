@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## 👋 About Me<br><br>I'm a DevOps engineer in training, focused on hands-on AWS + Ansible automation.<br><br>- 🔧 **Currently building:** infrastructure automation for EC2 fleets — dynamic<br>  inventory, health monitoring, and patch/maintenance playbooks<br>- 🛠️ **Core stack:** AWS (EC2, IAM, CLI), Ansible, Bash, Linux system administration, Git/GitHub<br>- 📦 **Featured project:** [`vm-monitor`](https://github.com/DhruvOne/vm-monitor) —<br>  Ansible-based EC2 health monitoring that auto-discovers dev-tagged instances,<br>  collects CPU/memory/disk metrics, and emails an animated HTML report<br>  (secrets managed via Ansible Vault)<br>- 🐧 **Environment:** WSL (Ubuntu) on Windows, working against EC2 in `ap-south-1`<br>- 🚁 **Off duty:** building and flying FPV drones<br><br>## 🧰 Skills<br>`AWS EC2` `Ansible` `Bash` `Linux` `Git & GitHub` `YAML` `SMTP/Automation`
 
 
